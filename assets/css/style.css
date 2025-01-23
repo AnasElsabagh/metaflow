@@ -19470,3 +19470,8 @@ body:not(.is-mobile) .tt-style-switch:hover {
     transform: none;
   }
 }/*# sourceMappingURL=style.css.map */
+
+.iconz {
+  width: 100%;
+  height: 50px;
+} 
