@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350.42 62.34">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Times-Bold, Times;
+        font-weight: 700;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #006494;
+      }
+
+      .cls-1, .cls-3 {
+        font-size: 37.67px;
+        isolation: isolate;
+      }
+
+      .cls-4 {
+        fill: #062665;
+      }
+
+      .cls-3 {
+        font-family: Times-Roman, Times;
+      }
+    </style>
+  </defs>
+  <text class="cls-1" transform="translate(139.3 40.71) scale(1.33 1)"><tspan x="0" y="0">site</tspan></text>
+  <text class="cls-3" transform="translate(211.53 40.71) scale(1.33 1)"><tspan x="0" y="0">scribes</tspan></text>
+  <path class="cls-2" d="M0,32.41v-7.28L39.57,7.17v9.56l-27.16,11.89v.29l27.16,11.89v9.56L0,32.41h0Z"/>
+  <path class="cls-4" d="M69.31,0h12.79l-34.23,62.34h-12.79L69.31,0h0Z"/>
+  <path class="cls-2" d="M80.29,40.79l27.57-11.89v-.29l-27.57-11.89V7.16l40.18,17.95v7.27l-40.18,17.95v-9.56h0Z"/>
+</svg>

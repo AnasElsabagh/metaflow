@@ -19478,3 +19478,8 @@ body:not(.is-mobile) .tt-style-switch:hover {
 .bulletz {
   text-align: left;
 }
+
+.img-fluids {
+  max-width: 90%;
+  height: 50px;
+}

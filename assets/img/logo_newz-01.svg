@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 150">
+  <text transform="translate(109.33 83.28) scale(.94 1)" fill="#006494" font-size="32.5"><tspan x="0" y="0" font-family="Times-Bold, Times" font-weight="700">site</tspan><tspan x="46.93" y="0" font-family="Times-Roman, Times">scribes</tspan></text>
+  <path d="M21.99,78.9v-6.85l24.1-16.92v9.01l-16.54,11.2v.27l16.54,11.2v9.01l-24.1-16.92Z" fill="#006494"/>
+  <path d="M66.7,45.67h7.79l-20.85,58.73h-7.79l20.85-58.73Z" fill="#062665"/>
+  <path d="M73.39,86.79l16.79-11.2v-.27l-16.79-11.2v-9l24.47,16.91v6.85l-24.47,16.91v-9Z" fill="#006494"/>
+</svg>
