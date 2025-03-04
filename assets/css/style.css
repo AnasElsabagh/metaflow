@@ -19488,3 +19488,17 @@ body:not(.is-mobile) .tt-style-switch:hover {
   max-width: 100%;
   height: 400px;
 }
+
+@font-face {
+  font-family: 'lemonmilk';
+  src: url('/assets/css/fonts/LEMONMILK-Bold.otf') format('otf'),
+  url('/assets/css/fonts/LEMONMILK-BoldItalic.otf') format('otf'),
+  url('/assets/css/fonts/LEMONMILK-Light.otf') format('otf'),
+  url('/assets/css/fonts/LEMONMILK-LightItalic.otf') format('otf'),
+  url('/assets/css/fonts/LEMONMILK-Medium.otf') format('otf'),
+  url('/assets/css/fonts/LEMONMILK-MediumItalic.otf') format('otf'),
+  url('/assets/css/fonts/LEMONMILK-Regular.otf') format('otf'),
+  url('/assets/css/fonts/LEMONMILK-RegularItalic.otf') format('otf');
+  font-weight: normal;
+  font-style: normal;
+}
